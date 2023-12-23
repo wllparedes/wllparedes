@@ -1,6 +1,6 @@
 
 ## ¡Hola! 🚀
-<a href="http://fiamma.vercel.app" target="blank"><img align="right" width="410px" height="250px" src="https://github.com/wllparedes/brightonJCR.github.io/blob/main/img/aficion.jpg" alt="portfolio" /></a> 
+<a href="http://fiamma.vercel.app" target="blank"><img align="right" width="440px" height="245px" src="https://github.com/wllparedes/brightonJCR.github.io/blob/main/img/aficion.jpg" alt="portfolio" /></a> 
 ### Bienvenid@ a mi github
 
 🔭 Busco proyectos nuevos
